@@ -13,6 +13,7 @@ pip install tkinter
 `
 3. Next, create a new file called main.py and copy the following code into the file:
 
+
 `
 import tkinter as tk
 import random
